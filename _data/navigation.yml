@@ -1,0 +1,5 @@
+main:
+  - title: ":robot: Robots"
+    url: /robots/
+  - title: ":notebook: About"
+    url: /about/

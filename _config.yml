@@ -1,5 +1,5 @@
 
-minimal_mistakes_skin: "aqua"
+minimal_mistakes_skin: "contrastPermalink"
 search: true
 
 title: "PizzaRobotics"
@@ -19,6 +19,37 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 # timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+after_footer_scripts :
+  - /assets/js/cookie-consent.js
+  - /assets/js/copyCode.js
+
+teaser: /assets/images/background.jpeg
+
+collections:
+  robot:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  # _robot
+  - scope:
+      path: ""
+      type: robot
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      read_time: true
+      sidebar:
+        nav: "docs"
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Reading Files
 include:

@@ -1,0 +1,41 @@
+.copy-code-container {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.1em;
+    background: #222c32;
+    border-radius: 5px;
+}
+
+.copy-code-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    cursor: pointer;
+    font-size: 0.8rem;
+    background-color: #616161;
+    color: #e7e7e7;
+    padding: 0.2em 0.2em;
+    border-radius: 5px;
+
+    &::before {
+        content: "Copy";
+    }
+
+    &::after {
+        margin-left: 4px;
+        content: "📋";
+        width: 1em;
+    }
+
+    // This class will be toggled via JavaScript
+    &.copied {
+        &::before {
+            content: "Copied!";
+        }
+
+        &::after {
+            content: "✔️";
+        }
+    }
+}
