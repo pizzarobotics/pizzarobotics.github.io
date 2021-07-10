@@ -1,8 +1,12 @@
 ---
 title: Events
-layout: category
+layout: collection
 permalink: /event/
+collection: event
 entries_layout: grid
 classes: wide
-taxonomy: event
+sort_by: number
+sort_order: reverse
 ---
+
+All events we have been.

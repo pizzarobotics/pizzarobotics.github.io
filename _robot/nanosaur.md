@@ -1,6 +1,7 @@
 ---
 title: "NanoSaur"
 excerpt: "🦕 The smallest NVIDIA Jetson dinosaur robot"
+author: "Raffaello Bonghi"
 classes: wide
 number: 2020
 link: https://nanosaur.ai/

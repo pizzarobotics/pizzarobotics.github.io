@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/background.jpg
 intro: 
-  - excerpt: 'We are ItalianMakers. We make Robots. In Pizza we crust'
+  - excerpt: 'We are Italian Makers. We make Robots. In Pizza we crust'
 feature_row:
   - image_path: /assets/images/about.jpg
     alt: "about"
@@ -22,6 +22,14 @@ feature_row:
     url: "/member/"
     btn_label: "members"
     btn_class: "btn--success"
+  - image_path: /assets/images/events.jpg
+    alt: "events"
+    title: "events"
+    excerpt: "events"
+    url: "/event/"
+    btn_label: "events"
+    btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/images/robots.jpg
     alt: "robots"
     title: "Robots"
@@ -34,3 +42,5 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" type="center" %}

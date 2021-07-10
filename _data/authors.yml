@@ -1,0 +1,23 @@
+# Authors
+
+Raffaello Bonghi:
+  name        : "Raffaello Bonghi"
+  bio         : "Passion Robotics. Working in Robotics & AI. Ah Yes, in my spare time I work in robotics. Ph.D. in Robotics and automation engineer"
+  avatar      : "/assets/images/members/raffaello.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:raffaello@rnext.it"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://rnext.it"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/raffaello86"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/rbonghi"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/raffaello86"
+

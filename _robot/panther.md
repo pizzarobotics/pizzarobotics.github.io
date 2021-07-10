@@ -1,6 +1,7 @@
 ---
 title: "Panther"
 excerpt: "🐆 Powerful Autonomous eNTity High-End Robot"
+author: "Raffaello Bonghi"
 link: https://rpanther.github.io/
 classes: wide
 number: 2015
