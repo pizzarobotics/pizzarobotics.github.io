@@ -31,7 +31,7 @@ feature_row:
     excerpt: "events"
     url: "/event/"
     btn_label: "events"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
 feature_row2:
   - image_path: /assets/images/pizzarobotics.png
     alt: "robots"
