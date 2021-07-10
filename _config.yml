@@ -2,8 +2,8 @@
 minimal_mistakes_skin: "contrast"
 search: true
 
-title: ":pizza: PizzaRobotics"
-subtitle: "We are ItalianMakers. We make Robots. In Pizza we crust"
+title: "PizzaRobotics"
+subtitle: ":pizza: We are ItalianMakers. We make Robots. In Pizza we crust"
 name: "PizzaRobotics"
 
 repository: "pizzarobotics/pizzarobotics.github.io"
