@@ -15,7 +15,7 @@ window.cookieconsent.initialise(
         "content":
         {
             "message": "This website uses cookies to ensure you get the best experience here.",
-            "href": "https://nanosaur.ai/terms/"
+            "href": "https://pizzarobotics.org/terms/"
         },
         onInitialise: function (status) {
             var type = this.options.type;
