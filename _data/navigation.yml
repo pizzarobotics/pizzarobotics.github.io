@@ -1,5 +1,8 @@
 main:
-  - title: ":robot: Robots"
-    url: /robots/
   - title: ":notebook: About"
     url: /about/
+  - title: ":busts_in_silhouette: Members"
+    url: /member/
+  - title: ":robot: Robots"
+    url: /robot/
+

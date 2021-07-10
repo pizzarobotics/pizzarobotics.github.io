@@ -2,13 +2,13 @@
 minimal_mistakes_skin: "contrast"
 search: true
 
-title: "PizzaRobotics"
-subtitle: "PizzaRobotics"
-name: "Raffaello Bonghi"
+title: ":pizza: PizzaRobotics"
+subtitle: "We are ItalianMakers. We make Robots. In Pizza we crust"
+name: "PizzaRobotics"
 
 repository: "pizzarobotics/pizzarobotics.github.io"
 
-twitter_username: raffaello86
+twitter_username: pizzarobotics
 github_username: pizzarobotics
 
 # Build settings

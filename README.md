@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# :pizza: pizzarobotics.org - [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
-You can use the [editor on GitHub](https://github.com/pizzarobotics/pizzarobotics.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Run locally
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+bundle exec jekyll serve --incremental --livereload
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Install Ruby
 
-### Jekyll Themes
+https://gorails.com/setup/ubuntu/20.04#ruby-rbenv
+* Using rbenv
+* version 2.7.3
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pizzarobotics/pizzarobotics.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```
+bundle
+```
 
-### Support or Contact
+### Theme reference
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* https://mmistakes.github.io/minimal-mistakes/
+* https://github.com/mmistakes/mm-github-pages-starter
+* https://ptc-it.de/enabling-cookie-consent-with-jekyll-minimal-mistakes/
+* https://ptc-it.de/add-favicon-to-mm-jekyll-site/
+* https://www.aleksandrhovhannisyan.com/blog/how-to-add-a-copy-to-clipboard-button-to-your-jekyll-blog/
+* Make a table from csv file https://jekyllrb.com/tutorials/csv-to-table/
+
+# Other
+* https://emojipedia.org/
+* https://realfavicongenerator.net/
+* https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/3d-file-viewer
+
+# License
+
+This project is under license [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg

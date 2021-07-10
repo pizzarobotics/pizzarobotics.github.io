@@ -1,34 +1,34 @@
 ---
 layout: splash
-excerpt: "PizzaRobotics"
+excerpt: "In Pizza we crust"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/intro.jpg
+  overlay_image: /assets/images/background.jpg
 intro: 
-  - excerpt: 'PizzaRobotics balh blah'
+  - excerpt: 'We are ItalianMakers. We make Robots. In Pizza we crust'
 feature_row:
-  - image_path: /assets/images/quick-start.jpg
-    alt: "quick-start"
+  - image_path: /assets/images/about.jpg
+    alt: "about"
+    title: "About"
+    excerpt: "about us"
+    url: "/about/"
+    btn_label: "about"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/members.jpg
+    alt: "members"
     title: "Members"
     excerpt: "Members"
-    url: "/quick-start/"
-    btn_label: "let's go!"
+    url: "/member/"
+    btn_label: "members"
     btn_class: "btn--success"
-  - image_path: /assets/images/tutorial.jpg
-    alt: "tutorials"
+  - image_path: /assets/images/robots.jpg
+    alt: "robots"
     title: "Robots"
     excerpt: "Robots"
-    url: "/tutorial/"
-    btn_label: "tutorials"
+    url: "/robot/"
+    btn_label: "robots"
     btn_class: "btn--warning"
-  - image_path: /assets/images/repository.jpg
-    alt: "repository"
-    title: "Know-how"
-    excerpt: "blah blah"
-    url: "/blah-blah/"
-    btn_label: ":star: Star and fork!"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
