@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: ":busts_in_silhouette: Members"
     url: /member/
+  - title: ":date: Events"
+    url: /event/
   - title: ":robot: Robots"
     url: /robot/
 

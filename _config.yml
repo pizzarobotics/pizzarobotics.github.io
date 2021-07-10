@@ -49,21 +49,24 @@ footer:
 teaser: assets/images/pizzarobotics.png
 
 collections:
-  robot:
+  member:
     output: true
     permalink: /:collection/:path/
-  member:
+  event:
+    output: true
+    permalink: /:collection/:path/
+  robot:
     output: true
     permalink: /:collection/:path/
 
 defaults:
-  # _robot
+  # _event
   - scope:
       path: ""
-      type: robot
+      type: event
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       read_time: true
   # _member
@@ -73,6 +76,15 @@ defaults:
     values:
       layout: single
       author_profile: false
+      share: true
+      read_time: true
+  # _robot
+  - scope:
+      path: ""
+      type: robot
+    values:
+      layout: single
+      author_profile: true
       share: true
       read_time: true
   # _pages

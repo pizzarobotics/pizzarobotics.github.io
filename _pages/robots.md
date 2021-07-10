@@ -1,10 +1,13 @@
 ---
-title: Robots
+title: Events
 layout: collection
-permalink: /robot/
-collection: robot
+permalink: /event/
+collection: event
 entries_layout: grid
 classes: wide
+sort_by: number
+sort_order: reverse
 ---
 
-All robots make from the community
+
+All events we have been.
