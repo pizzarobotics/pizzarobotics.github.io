@@ -77,7 +77,7 @@ defaults:
       layout: single
       author_profile: false
       share: true
-      read_time: true
+      read_time: false
   # _robot
   - scope:
       path: ""
