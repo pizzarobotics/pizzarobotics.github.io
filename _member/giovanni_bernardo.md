@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/members/giovanni_bernardo.jpg
-  teaser: /assets/images/members/giovanni_bernardo_t.jpg
+  teaser: /assets/images/members/giovanni_bernardo.jpg
 ---
 
 Class 1977, born with a Commodore64, he started to learn programming on it during primary school using the Basic. That Commodore64 along with a lot of other vintage computers and gaming consoles fills for half his laboratory. With his wife founded an non-profit association about retro-technology ([associazione64](https://www.associazione64.it)) and organizes showcases and school tours showing evolution of technology.
