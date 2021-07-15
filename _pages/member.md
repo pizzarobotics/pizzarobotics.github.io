@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-All robots make from the community
+We are Pizza Robotics
