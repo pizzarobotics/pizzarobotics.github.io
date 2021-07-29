@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/members/walter_lucetti.jpg
   teaser: /assets/images/members/walter_lucetti.jpg
 ---
-Walter, knows on the Internet as Myzhar, is a computer engineer by trade but a roboticist at heart. When he's not building robots, he's sharing his knowledge with others on his blog and using his 3D printer.
+Walter, known on the Internet as Myzhar, is a computer engineer by trade but a roboticist at heart. When he's not building robots, he's sharing his knowledge with others on his blog and using his 3D printer.
 
 He started building robots in far 2005 after getting the Engineer degree and never stopped.
 
