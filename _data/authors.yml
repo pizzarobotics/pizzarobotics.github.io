@@ -21,3 +21,24 @@ Raffaello Bonghi:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/raffaello86"
 
+
+Simone Tolomei:
+  name        : "Simone Tolomei"
+  bio         : "Robotics Engineering student, Maker, space enthusiast, cycle-tourist."
+  avatar      : "/assets/images/members/simone_tolomei.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tolomei.simone5@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SimoneTolomei"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/tolomeis"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/tolo_robotics"
+
+
+
