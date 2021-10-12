@@ -40,5 +40,22 @@ Simone Tolomei:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/tolo_robotics"
 
+Alessio Morale:
+  name        : "Alessio Morale"
+  bio         : "Drones, robotics and electronics enthusiast, robotic software engineer, inline skater."
+  avatar      : "/assets/images/members/alessio_morale.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:alessiomorale@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/alessiomorale"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/alessiomorale"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/alessiomorale"
 
 
