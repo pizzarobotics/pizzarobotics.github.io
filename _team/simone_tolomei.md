@@ -5,8 +5,8 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/members/simone_tolomei.jpg
-  teaser: /assets/images/members/simone_tolomei.jpg
+  overlay_image: /assets/images/team/tolomei/simone_tolomei.jpg
+  teaser: /assets/images/team/tolomei/simone_tolomei.jpg
 ---
 
 

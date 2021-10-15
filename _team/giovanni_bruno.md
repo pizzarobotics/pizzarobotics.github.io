@@ -5,8 +5,8 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/members/giovanni_bruno.jpg
-  teaser: /assets/images/members/giovanni_bruno.jpg
+  overlay_image: /assets/images/team/bruno/giovanni_bruno.jpg
+  teaser: /assets/images/team/bruno/giovanni_bruno.jpg
 ---
 
 >Website:[https://gbr1.github.io](https://gbr1.github.io)

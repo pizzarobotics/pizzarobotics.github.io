@@ -11,39 +11,29 @@ header:
 intro: 
   - excerpt: 'We are Italian Makers. We make Robots. In Pizza we crust'
 feature_row:
-  - image_path: /assets/images/pizzarobotics.png
+  - image_path: /assets/images/team_mfr2021.jpg
     alt: "about"
-    title: "About"
-    excerpt: "about us"
+    title: ":pizza: About"
+    excerpt: "Collective of professionals and high-level enthusiasts roboticist. Read more about our team and join in this community."
     url: "/about/"
-    btn_label: "about"
+    btn_label: "read more"
     btn_class: "btn--primary"
-  - image_path: /assets/images/pizzarobotics.png
-    alt: "members"
-    title: "Members"
-    excerpt: "Members"
-    url: "/member/"
-    btn_label: "members"
-    btn_class: "btn--success"
-  - image_path: /assets/images/pizzarobotics.png
-    alt: "events"
-    title: "events"
-    excerpt: "events"
+  - image_path: /assets/images/events.jpg
+    alt: "Events"
+    title: ":date: Events"
+    excerpt: "Conference, events, PizzaRobotics make your robots and show in all events around the world. "
     url: "/event/"
     btn_label: "events"
     btn_class: "btn--info"
-feature_row2:
-  - image_path: /assets/images/pizzarobotics.png
-    alt: "robots"
-    title: "Robots"
-    excerpt: "Robots"
-    url: "/robot/"
-    btn_label: "robots"
-    btn_class: "btn--warning"
+  - image_path: /assets/images/robots.jpg
+    alt: "Projects"
+    title: ":notebook: Projects"
+    excerpt: "We are not making Pizza, but cool projects! Explore all our projects made from our community."
+    url: "/projects/"
+    btn_label: "explore"
+    btn_class: "btn--success"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="center" %}

@@ -3,7 +3,7 @@
 Raffaello Bonghi:
   name        : "Raffaello Bonghi"
   bio         : "Passion Robotics. Working in Robotics & AI. Ah Yes, in my spare time I work in robotics. Ph.D. in Robotics and automation engineer"
-  avatar      : "/assets/images/members/raffaello.jpg"
+  avatar      : "/assets/images/team/bonghi/raffaello.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -25,7 +25,7 @@ Raffaello Bonghi:
 Simone Tolomei:
   name        : "Simone Tolomei"
   bio         : "Robotics Engineering student, Maker, space enthusiast, cycle-tourist."
-  avatar      : "/assets/images/members/simone_tolomei.jpg"
+  avatar      : "/assets/images/team/tolomei/simone_tolomei.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -43,7 +43,7 @@ Simone Tolomei:
 Alessio Morale:
   name        : "Alessio Morale"
   bio         : "Drones, robotics and electronics enthusiast, robotic software engineer, inline skater."
-  avatar      : "/assets/images/members/alessio_morale.jpg"
+  avatar      : "/assets/images/team/morale/alessio_morale.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -58,4 +58,7 @@ Alessio Morale:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/alessiomorale"
 
-
+Walter Lucetti:
+  name        : "Walter Lucetti"
+  bio         : "Computer Engineer - Passionate about Computer Vision, Robotics, and Artificial Intelligence. Not sleeping to create robots."
+  avatar      : "/assets/images/team/lucetti/walter_lucetti.jpg"

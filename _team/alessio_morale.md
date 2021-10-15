@@ -5,8 +5,8 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/alessio/alessio_morale_overlay.jpg
-  teaser: /assets/images/members/alessio_morale.jpg
+  overlay_image: /assets/images/team/morale/alessio_morale_overlay.jpg
+  teaser: /assets/images/team/morale/alessio_morale.jpg
 ---
 
 
@@ -21,7 +21,7 @@ Some of the projects I'm currently working on are Slammer, a rover robot and uNa
 
 >Alessio's Blog: [a*m thoughts trash can, a blog about robotics, drones, electronics and software engineering](https://blog.alessiomorale.com/)
 
-![](/assets/images/alessio/alessio_morale_small.jpg)
+![](/assets/images/team/morale/alessio_morale_small.jpg)
 ### Socials
 
 - [Instagram](https://www.instagram.com/alessiomorale)
@@ -29,6 +29,6 @@ Some of the projects I'm currently working on are Slammer, a rover robot and uNa
 - [LinkedIn](https://www.linkedin.com/in/alessiomorale/)
 - [Facebook](https://www.facebook.com/alessiomorale)
 
-![Slammer](/assets/images/alessio/slammer.jpg).
+![Slammer](/assets/images/projects/slammer/slammer.jpg).
 
-![Unav2](/assets/images/alessio/unav2_v0.jpg).
+![Unav2](/assets/images/projects/unav2/unav2_v0.jpg).
