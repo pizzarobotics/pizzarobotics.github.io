@@ -1,10 +1,10 @@
 main:
-  - title: ":notebook: About"
+  - title: ":pizza: About"
     url: /about/
   - title: ":busts_in_silhouette: Members"
     url: /member/
   - title: ":date: Events"
     url: /event/
-  - title: ":robot: Robots"
-    url: /robot/
+  - title: ":notebook: Projects"
+    url: /projects/
 

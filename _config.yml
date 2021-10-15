@@ -55,7 +55,7 @@ collections:
   event:
     output: true
     permalink: /:collection/:path/
-  robot:
+  projects:
     output: true
     permalink: /:collection/:path/
 
@@ -78,10 +78,10 @@ defaults:
       author_profile: false
       share: true
       read_time: false
-  # _robot
+  # _projects
   - scope:
       path: ""
-      type: robot
+      type: projects
     values:
       layout: single
       author_profile: true
