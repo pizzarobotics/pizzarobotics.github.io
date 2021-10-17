@@ -1,6 +1,7 @@
 ---
 title: Events
 layout: collection
+author: "Pizza Robotics"
 permalink: /event/
 collection: event
 entries_layout: grid

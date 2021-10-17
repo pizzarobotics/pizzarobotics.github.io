@@ -1,6 +1,7 @@
 ---
 title: Projects
 layout: collection
+author: "Pizza Robotics"
 permalink: /projects/
 collection: projects
 entries_layout: grid

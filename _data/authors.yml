@@ -1,5 +1,30 @@
 # Authors
 
+Pizza Robotics:
+  name        : "Pizza Robotics"
+  bio         : "Collective of professionals and high-level enthusiasts roboticist. Read more about our team and join in this community."
+  avatar      : "/assets/images/team_mfr2021.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://pizzarobotics.org"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/pizzarobotics"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/pizzarobotics"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCVh659_qQa_bjDOg3Jhyf_w"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/pizzarobotics"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:info@pizzarobotics.org"
+
+
 Raffaello Bonghi:
   name        : "Raffaello Bonghi"
   bio         : "Passion Robotics. Working in Robotics & AI. Ah Yes, in my spare time I work in robotics. Ph.D. in Robotics and automation engineer"

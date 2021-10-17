@@ -1,5 +1,6 @@
 ---
 title:  🍕 PizzaRobotics
+author: "Pizza Robotics"
 layout: collection
 permalink: /about/
 collection: team
