@@ -1,12 +1,12 @@
 ---
 title: "Alessio Morale"
-excerpt: "Drones, robotics and electronics enthusiast, robotic software engineer, inline skater."
+excerpt: "Drones, robotics and electronics enthusiast, software engineer, inline skater."
 classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/team/morale/alessio_morale_overlay.jpg
-  teaser: /assets/images/team/morale/alessio_morale.jpg
+  teaser: /assets/images/team/morale/alessio_morale_teaser.jpg
 ---
 
 
