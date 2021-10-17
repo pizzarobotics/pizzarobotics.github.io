@@ -8,6 +8,8 @@ header:
   actions:
   - label: ":camera_flash: Instagram"
     url: "https://instagram.com/pizzarobotics"
+  - label: ":robot: Discord"
+    url: "https://discord.gg/wnumEzwYYd"
 intro: 
   - excerpt: 'We are Italian Makers. We make Robots. In Pizza we crust'
 feature_row:
