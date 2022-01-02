@@ -11,6 +11,11 @@ repository: "pizzarobotics/pizzarobotics.github.io"
 twitter_username: pizzarobotics
 github_username: pizzarobotics
 
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "G-6M2HNXPRHF"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
