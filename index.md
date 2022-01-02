@@ -40,8 +40,4 @@ feature_row:
 
 {% include feature_row %}
 
-<h1>Join on Discord</h1>
-
-<div class="container">
-<iframe class="responsive-iframe"  src="https://discord.com/widget?id=846753051402174494&theme=dark" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</div>
+{% include discord.html %}

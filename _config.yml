@@ -30,7 +30,7 @@ social:
     - "https://instagram.com/pizzarobotics"
 
 analytics:
-  provider: "google"
+  provider: "google-universal"
   google:
     tracking_id: "G-6M2HNXPRHF"
     anonymize_ip: false # default
