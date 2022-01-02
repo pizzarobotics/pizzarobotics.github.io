@@ -1,33 +1,39 @@
+# minimal mistakes Jekyll reference
+# https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_config.yml
+
+remote_theme: mmistakes/minimal-mistakes
 
 minimal_mistakes_skin: "contrast"
-search: true
 
 title: "PizzaRobotics"
 subtitle: ":pizza: We are ItalianMakers. We make Robots. In Pizza we crust"
-name: "PizzaRobotics"
-
+name: &name "PizzaRobotics"
+description: &description "We are ItalianMakers. We make Robots. In Pizza we crust"
+url: https://pizzarobotics.org
 repository: "pizzarobotics/pizzarobotics.github.io"
+teaser: assets/images/pizzarobotics.png
 
-twitter_username: pizzarobotics
-github_username: pizzarobotics
+search: true
+search_full_content: true
+
+github: [metadata]
+
+twitter:
+  username: &twitter "pizzarobotics"
+
+discord:
+  id: 846753051402174494
+
+social:
+  links: # An array of links to social media profiles
+    - "https://twitter.com/pizzarobotics"
+    - "https://instagram.com/pizzarobotics"
 
 analytics:
   provider: "google"
   google:
     tracking_id: "G-6M2HNXPRHF"
-
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-after_footer_scripts :
-  - /assets/js/cookie-consent.js
-  - /assets/js/copyCode.js
+    anonymize_ip: false # default
 
 # Site Footer
 footer:
@@ -51,7 +57,22 @@ footer:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:info@pizzarobotics.org"
 
-teaser: assets/images/pizzarobotics.png
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - vendor
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
 collections:
   team:
@@ -100,16 +121,23 @@ defaults:
       layout: single
       author_profile: true
 
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-exclude:
-  - README.md
-  - LICENSE
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -123,3 +151,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+after_footer_scripts :
+  - /assets/js/cookie-consent.js
+  - /assets/js/copyCode.js

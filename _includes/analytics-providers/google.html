@@ -1,8 +1,10 @@
 <script>
     function loadGAonConsent() {
         window._gaq = window._gaq || [];
-        _gaq.push(['_setAccount', 'UA-92957365']);
-
+        _gaq.push(['_setAccount', '{{ site.analytics.google.tracking_id }}']);
+        {% if site.analytics.google.anonymize_ip == true %}
+          _gaq.push(['_gat._anonymizeIp']);
+        {% endif %}
         _gaq.push(['_trackPageview']);
 
         (function () {
