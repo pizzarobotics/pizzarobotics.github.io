@@ -1,9 +1,11 @@
 main:
   - title: ":pizza: About"
     url: /about/
-  - title: ":date: Events"
-    url: /events/
   - title: ":notebook: Projects"
     url: /projects/
+  - title: ":date: Events"
+    url: /events/
+  - title: "🎤 Interviews"
+    url: /interviews/
   - title: "📰 Posts"
     url: /posts/
