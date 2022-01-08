@@ -1,13 +1,10 @@
 ---
 title: Events
-layout: collection
+layout: category
 author: "Pizza Robotics"
-permalink: /event/
-collection: event
+permalink: /events/
 entries_layout: grid
-classes: wide
-sort_by: number
-sort_order: reverse
+taxonomy: Events
 ---
 
 All events we have been.

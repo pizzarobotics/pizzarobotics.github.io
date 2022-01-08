@@ -2,7 +2,8 @@ main:
   - title: ":pizza: About"
     url: /about/
   - title: ":date: Events"
-    url: /event/
+    url: /events/
   - title: ":notebook: Projects"
     url: /projects/
-
+  - title: "📰 Posts"
+    url: /posts/

@@ -1,20 +1,36 @@
 # :pizza: pizzarobotics.org - [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
-## Run locally
+# Run locally
+
+If you have **docker** and **docker-compose** you can use only this command
 
 ```
-bundle exec jekyll serve --incremental --livereload
+docker-compose up -d
 ```
 
-## Install Ruby
+**Note:** If you are updating `config.yml` or `_config.dev.yml` please **restart** container.
+
+# Install ruby and run on your host
+
+If you want install all environment on your desktop you need to install **ruby**:
 
 https://gorails.com/setup/ubuntu/20.04#ruby-rbenv
 * Using rbenv
 * version 2.7.3
 
+When is done, please run:
+
 ```
 bundle
 ```
+
+to run on your local machine, please execute:
+
+```
+rake serve
+```
+
+eq of: `bundle exec jekyll serve --config _config.yml,_config.dev.yml --incremental --livereload`
 
 ### Theme reference
 

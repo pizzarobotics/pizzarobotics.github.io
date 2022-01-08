@@ -2,7 +2,9 @@
   position: relative;
   overflow: hidden;
   width: 100%;
-  padding-top: 40%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+  height: 350px;
+  padding-top: 20%;
+  /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
 }
 
 /* Then style the iframe to fit in the container div with full height and width */
@@ -13,5 +15,11 @@
   bottom: 0;
   right: 0;
   width: 100%;
-  height: 95%;
+  height: 100%;
+}
+
+.posts_discord {
+  position: relative;
+  margin-bottom: 2em;
+  font-size: 1.125em;
 }

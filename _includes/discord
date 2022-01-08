@@ -1,0 +1,22 @@
+<div class="feature__wrapper">
+
+    <div class="grid__wrapper">
+
+        <div class="grid__item">
+            <div class="archive__item">
+                <div class="container">
+                    <iframe class="responsive-iframe"
+                        src="https://discordapp.com/widget?id={{ site.discord.id }}&theme=dark" allowtransparency="true"
+                        frameborder="0"
+                        sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+                </div>
+            </div>
+        </div>
+
+        {% for post in site.posts limit:3 %}
+        {% include archive-single.html type="grid" %}
+        {% endfor %}
+
+    </div>
+
+</div>

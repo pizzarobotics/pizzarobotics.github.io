@@ -86,15 +86,17 @@ collections:
     permalink: /:collection/:path/
 
 defaults:
-  # _event
+  # _posts
   - scope:
       path: ""
-      type: event
+      type: posts
     values:
       layout: single
       author_profile: false
+      read_time: false
       share: true
-      read_time: true
+      related: true
+      show_date: true
   # _team
   - scope:
       path: ""

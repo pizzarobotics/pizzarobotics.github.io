@@ -24,7 +24,7 @@ feature_row:
     alt: "Events"
     title: ":date: Events"
     excerpt: "Conference, events, PizzaRobotics make your robots and show in all events around the world. "
-    url: "/event/"
+    url: "/events/"
     btn_label: "events"
     btn_class: "btn--info"
   - image_path: /assets/images/robots.jpg
@@ -40,4 +40,4 @@ feature_row:
 
 {% include feature_row %}
 
-{% include discord.html %}
+{% include discord %}
