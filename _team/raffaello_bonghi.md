@@ -7,10 +7,26 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/team/bonghi/raffaello.jpg
   teaser: /assets/images/team/bonghi/raffaello.jpg
+  actions:
+    - label: ":sparkling_heart: Sponsor"
+      url: "https://github.com/sponsors/rbonghi"
+    - label: "rnext.it"
+      url: "https://rnext.it"
 ---
 
-Raffaello Bonghi is a developer relations manager for AI & Robotics.
+I'm **Raffaello Bonghi** an 🇮🇹 **Italian** enthusiastic 🤖 **robotics** engineer, born in the eternal city of 🛵 **Rome** and now I'm living in 🇬🇧 England.
 
-Since 2015, he has been an NVIDIA Jetson Champ designing multiple ROS/ROS-based robots for outdoor navigation and educational applications.
+I studied systems automation and design and mobile platform implementation at the Sapienza University of Rome and Universite Paris-Sud (where I made my [**PhD**](https://rnext.it/raffaello-bonghi/#2012-2016---phd-in-automation)). But my passion for robots stems from my teens. I'd take apart everything, including the family TV, to see how things worked. Studying Greek and Latin by day (In Italy you can choose "Classic" studies) and electronics at night soon I built robots and entered competitions.
 
-Additionally, he has been involved in developing AI solutions for numerous international clients in the retail and robotics space. Raffaello holds a Ph.D. in control theory and industrial automation, with a deep focus on robotics.
+For a youth robotics club, I created a [minisumo](https://rnext.it/publications/robot-minisumo/) robot ([Dark-Blade](https://rnext.it/robot/dark-blade) was my last one) with wheels to do battle in contests, similar to sumo wrestling events. Robots spot their enemy and fight, and his minisumo won.
+
+As my robot-building skills developed and my university studies were enhancement me, I sought out to share all my knowledge online, making new [**robots**](https://rnext.it/robot/) such as:
+
+ * 🦕 [nanosaur](https://nanosaur.ai/)
+ * 🐆 [Panther](https://rpanther.github.io/)
+
+During my last years I made [**open-source projects**](https://rnext.it/project/), below the most popular:
+
+ * [jetson-stats](https://github.com/rbonghi/jetson_stats)
+ * [ros-jetson-stats](https://github.com/rbonghi/ros_jetson_stats)
+ * [jetson-easy](https://github.com/rbonghi/jetson_easy)
