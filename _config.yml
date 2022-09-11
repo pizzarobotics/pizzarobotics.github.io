@@ -33,7 +33,7 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-6M2HNXPRHF"
-    anonymize_ip: false # default
+    anonymize_ip: true # default
 
 # Site Footer
 footer:
