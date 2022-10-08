@@ -1,6 +1,8 @@
 ---
 title: "Sandwich"
 excerpt: "Small and versatile Jetson Nano-based robot"
+redirect_from:
+  - /robot/sandwich/
 author: "Simone Tolomei"
 link: https://github.com/tolomeis/sandwich
 classes: wide
